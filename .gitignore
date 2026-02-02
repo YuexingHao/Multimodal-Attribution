@@ -1,0 +1,24 @@
+# Data and generated outputs (large)
+data/
+output/*
+!output/summarize_reports.py
+val2017/
+annotations/
+
+# Checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated figures at root
+attention_comparison.png
+
+# Subproject (optional: remove to include)
+Wan2.1/
+
+# Environment and IDE
+.env
+.venv/
+*.swp
+.DS_Store
