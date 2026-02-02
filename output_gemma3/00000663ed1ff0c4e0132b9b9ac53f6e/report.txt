@@ -1,0 +1,15 @@
+============================================================
+Image: 00000663ed1ff0c4e0132b9b9ac53f6e.jpg
+============================================================
+
+GROUND-TRUTH (categories with 1 bbox only)
+----------------------------------------
+
+Gemma-3-4B-Instruct PREDICTIONS (prompt = GT labels for this image)
+----------------------------------------
+
+IoU (Predicted vs Ground-Truth, by category)
+----------------------------------------
+  (no GT boxes for any category)
+
+============================================================
